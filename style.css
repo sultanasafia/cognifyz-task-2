@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  #colorButton {
+    padding: 16px 26px;
+    font-size: 28px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: 700;
+   
+  }
